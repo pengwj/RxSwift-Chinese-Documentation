@@ -58,7 +58,7 @@ tap.subscribe(onNext: { [weak self] in
 
 ### 特征观察者
 
-和 [Observable](observable.md) 一样，观察者也存特征**观察者**，例如：
+和 [Observable](observable.md) 一样，观察者也存在特征**观察者**，例如：
 
 * [Binder]
 
